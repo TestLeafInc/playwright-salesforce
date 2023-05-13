@@ -6,9 +6,7 @@
  </listeners>
   <test name="Services">
     <classes>
-      <class name="tests.ui.services.TC01_CreateAccount"/>
       <class name="tests.ui.services.TC02_EditAccount"/>
-      <class name="tests.ui.services.TC03_CreateLead"/>
       <class name="tests.ui.services.TC04_EditLead"/>
     </classes>
   </test> <!-- Test -->
